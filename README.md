@@ -1,1 +1,2 @@
 # student_portal
+This is a Student portal project showcasing my skills in crating a django project, adding files to the repository,and running home and about websites. you are also able to switch between the home and about pages using hyperlinks
